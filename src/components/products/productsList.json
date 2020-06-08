@@ -1,0 +1,108 @@
+[{
+    "title": "Apple",
+    "type": "Fruit",
+    "description": "This is Apple",
+    "price": "28 rs/kg"
+  }, 
+  {
+    "title": "Banana",
+    "type": "Fruit",
+    "description": "This is Banana",
+    "price": "30 rs/kg"
+  },
+   {
+    "title": "Mango",
+    "type": "Fruit",
+    "description": "This is Mango",
+    "price": "50 rs/kg"
+  },
+  {
+    "title": "Cabbege",
+    "type": "Vegetable",
+    "description": "This is Cabbege",
+    "price": "20 rs/kg"
+  },
+  {
+    "title": "Flower",
+    "type": "Vegetable",
+    "description": "This is Flower",
+    "price": "25 rs/kg"
+  },
+  {
+    "title": "Potato",
+    "type": "Vegetable",
+    "description": "This is Potato",
+    "price": "30 rs/kg"
+  },
+  {
+    "title": "Tomato",
+    "type": "Vegetable",
+    "description": "This is Tomato",
+    "price": "35 rs/kg"
+  },
+  {
+    "title": "Onion",
+    "type": "Vegetable",
+    "description": "This is Onion",
+    "price": "40 rs/kg"
+  },
+  {
+    "title": "Garlic",
+    "type": "Vegetable",
+    "description": "This is Garlic",
+    "price": "80 rs/kg"
+  },
+  {
+    "title": "Ginger",
+    "type": "Vegetable",
+    "description": "This is Ginger",
+    "price": "30 rs/kg"
+  },
+  {
+    "title": "Parwal",
+    "type": "Vegetable",
+    "description": "This is Parwal",
+    "price": "30 rs/kg"
+  },
+  {
+    "title": "Amul",
+    "type": "Dairy",
+    "description": "This is Amul Milk",
+    "price": "45 rs/l"
+  },
+  {
+    "title": "Mother Dairy",
+    "type": "Dairy",
+    "description": "This is Mother Dairy Milk",
+    "price": "48 rs/l"
+  },
+  {
+    "title": "Gowardhan",
+    "type": "Dairy",
+    "description": "This is Gowardhan Milk",
+    "price": "47 rs/l"
+  },
+  {
+    "title": "Plums",
+    "type": "Fruits",
+    "description": "This is Plums",
+    "price": "50 rs/kg"
+  },
+  {
+    "title": "WaterMelon",
+    "type": "Fruits",
+    "description": "This is WaterMelon",
+    "price": "40 rs/kg"
+  },
+  {
+    "title": "Mosambi",
+    "type": "Fruits",
+    "description": "This is Mosambi",
+    "price": "40 rs/kg"
+  },
+  {
+    "title": "Orange",
+    "type": "Fruits",
+    "description": "This is Orange",
+    "price": "40 rs/kg"
+  }]
