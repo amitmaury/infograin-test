@@ -26,7 +26,7 @@ function NavigationBar(props) {
   return (
     <Styles>
       <Navbar expand="lg">
-        <Navbar.Brand href="/">Infogrrain Test</Navbar.Brand>
+        <Navbar.Brand href="/">Infograin Test</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
