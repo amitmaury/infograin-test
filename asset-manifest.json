@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/infograin-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/infograin-test/static/js/main.ce96c4de.chunk.js",
+    "main.js.map": "/infograin-test/static/js/main.ce96c4de.chunk.js.map",
+    "runtime-main.js": "/infograin-test/static/js/runtime-main.01cac2cb.js",
+    "runtime-main.js.map": "/infograin-test/static/js/runtime-main.01cac2cb.js.map",
+    "static/css/2.de424728.chunk.css": "/infograin-test/static/css/2.de424728.chunk.css",
+    "static/js/2.e4867ae4.chunk.js": "/infograin-test/static/js/2.e4867ae4.chunk.js",
+    "static/js/2.e4867ae4.chunk.js.map": "/infograin-test/static/js/2.e4867ae4.chunk.js.map",
+    "index.html": "/infograin-test/index.html",
+    "precache-manifest.e4005f3fc72b5cf386c4f01bbf69312e.js": "/infograin-test/precache-manifest.e4005f3fc72b5cf386c4f01bbf69312e.js",
+    "service-worker.js": "/infograin-test/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/infograin-test/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/infograin-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4867ae4.chunk.js.LICENSE.txt": "/infograin-test/static/js/2.e4867ae4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01cac2cb.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e4867ae4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ce96c4de.chunk.js"
+  ]
+}
